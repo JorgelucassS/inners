@@ -1,4 +1,4 @@
-# nobel_prize_winners.py
+# nobel_prize_winners
 
 import pandas as pd
 
