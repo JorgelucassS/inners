@@ -1,6 +1,7 @@
 # nobel_prize_winners
 
 import pandas as pd
+import os
 
 # Sample data on Nobel Prize winners (Year, Category, Laureate)
 data = {
