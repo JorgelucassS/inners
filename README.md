@@ -1,6 +1,4 @@
-# Nobel Prize Winners!
-
-Statistics of Nobel Prize Laureates.
+# Nobel Prize Winners
 
 This repository provides a simple analysis of Nobel Prize winners using Python and pandas. The script displays information about recent Nobel laureates and analyzes the distribution of prizes by category.
 
