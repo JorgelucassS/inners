@@ -4,6 +4,7 @@ import pandas as pd
 import os
 
 # Sample data on Nobel Prize winners (Year, Category, Laureate)
+yyear = [1,2,3]
 data = {
     "Year": [2020, 2019, 2018, 2017, 2016],
     "Category": ["Peace", "Literature", "Physics", "Chemistry", "Medicine"],
