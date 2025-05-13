@@ -14,7 +14,7 @@ The dataset includes the following columns:
 
 | Year | Category     | Laureate                 |
 |-----|--------------|---------------------------|
-| 2020 | Peace        | World Food Programme       |
+| 2021 | Peace        | World Food Programme       |
 | 2019 | Literature   | Peter Handke               |
 | 2018 | Physics      | Donna Strickland            |
 | 2017 | Chemistry    | Frances Arnold              |
