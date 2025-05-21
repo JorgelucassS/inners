@@ -2,7 +2,7 @@
 
 import pandas as pd
 import os
-import soulp
+import Beautysoulp
 
 # Sample data on Nobel Prize winners (Year, Category, Laureate)
 yyear = [1,2,3]
