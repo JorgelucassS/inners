@@ -2,10 +2,9 @@
 
 import pandas as pd
 import os
-import Beautysoulp
 
 # Sample data on Nobel Prize winners (Year, Category, Laureate)
-yyear = [1,2,3]
+year = [2001,2002,2003]
 data = {
     "Year": [2020, 2019, 2018, 2017, 2016],
     "Category": ["Peace", "Literature", "Physics", "Chemistry", "Medicine"],
