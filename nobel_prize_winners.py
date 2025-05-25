@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 # Sample data on Nobel Prize winners (Year, Category, Laureate)
-year = [2001,2002,2003]
+year = [2001,2002,2003, 2004]
 data = {
     "Year": [2020, 2019, 2018, 2017, 2016],
     "Category": ["Peace", "Literature", "Physics", "Chemistry", "Medicine"],
