@@ -19,6 +19,7 @@ The dataset includes the following columns:
 | 2018 | Physics      | Donna Strickland            |
 | 2017 | Chemistry    | Frances Arnold              |
 | 2016 | Medicine     | Yoshinori Ohsumi            |
+| 2015 | Medicine     | Yoshinori Ohsumi            |
 
 ## Python Script
 
